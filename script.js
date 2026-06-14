@@ -87,12 +87,12 @@ const productImages = {
 };
 
 const exactProductImages = {
-  "Personalized Photo Mug": "assets/product-photo-mug.png",
-  "LED Name Lamp": "assets/product-led-lamp.png",
-  "Photo Fridge Magnet": "assets/product-fridge-magnet.png",
-  "Customized Water Bottle": "assets/product-water-bottle.png",
-  "Wooden Name Plate": "assets/product-wooden-name-plate.png",
-  "Laser Engraved Pen": "assets/product-engraved-pen.png"
+  "Personalized Photo Mug": "product-photo-mug.png",
+  "LED Name Lamp": "product-led-lamp.png",
+  "Photo Fridge Magnet": "product-fridge-magnet.png",
+  "Customized Water Bottle": "product-water-bottle.png",
+  "Wooden Name Plate": "product-wooden-name-plate.png",
+  "Laser Engraved Pen": "product-engraved-pen.png"
 };
 
 const categoryColors = {
