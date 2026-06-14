@@ -65,25 +65,25 @@ const products = [
 ];
 
 const categoryImages = {
-  "Custom Mugs": "assets/category-custom-mugs.png",
-  "LED Name Lamps": "assets/category-led-name-lamps.png",
-  "Photo Gifts": "assets/category-photo-gifts.png",
-  "Name Plates": "assets/category-name-plates.png",
-  "Laser Engraving": "assets/category-laser-engraving.png",
-  "Corporate Gifts": "assets/category-corporate-gifts.png",
-  "3D Printing": "assets/category-3d-printing.png",
-  "Customized T-Shirts": "assets/category-customized-tshirts.png"
+  "Custom Mugs": "category-custom-mugs.png",
+  "LED Name Lamps": "category-led-name-lamps.png",
+  "Photo Gifts": "category-photo-gifts.png",
+  "Name Plates": "category-name-plates.png",
+  "Laser Engraving": "category-laser-engraving.png",
+  "Corporate Gifts": "category-corporate-gifts.png",
+  "3D Printing": "category-3d-printing.png",
+  "Customized T-Shirts": "category-customized-tshirts.png"
 };
 
 const productImages = {
-  "Custom Mugs": "assets/product-photo-mug.png",
-  "LED Name Lamps": "assets/product-led-lamp.png",
-  "Photo Gifts": "assets/product-fridge-magnet.png",
-  "Name Plates": "assets/product-wooden-name-plate.png",
-  "Laser Engraving": "assets/product-engraved-pen.png",
-  "Corporate Gifts": "assets/product-water-bottle.png",
-  "3D Printing": "assets/category-3d-printing.png",
-  "Customized T-Shirts": "assets/category-customized-tshirts.png"
+  "Custom Mugs": "product-photo-mug.png",
+  "LED Name Lamps": "product-led-lamp.png",
+  "Photo Gifts": "product-fridge-magnet.png",
+  "Name Plates": "product-wooden-name-plate.png",
+  "Laser Engraving": "product-engraved-pen.png",
+  "Corporate Gifts": "product-water-bottle.png",
+  "3D Printing": "/category-3d-printing.png",
+  "Customized T-Shirts": "/category-customized-tshirts.png"
 };
 
 const exactProductImages = {
